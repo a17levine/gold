@@ -1,0 +1,1 @@
+Gold.ExampleRoute = Ember.Route.extend();
